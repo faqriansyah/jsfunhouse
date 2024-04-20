@@ -16,5 +16,11 @@ Cheers! 🎉
 
 This is a collection of syllabi that I have collected to make learning easier, I have arranged them in order
 
-- Javascript Async : Callback, Promise, 
+- Javascript Async
+  - Callback
+    - What is Callback?
+    - How to Use callback?
+  - Promise
+    - What is Promise?
+    - How promise used?
 - Node JS : 
